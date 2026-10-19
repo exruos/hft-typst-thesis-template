@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" font-family="Fira Sans, Arial, sans-serif">
+<rect width="600" height="300" fill="white"/>
+<line x1="60" y1="250.0" x2="580" y2="250.0" stroke="#e3e3e3"/>
+<text x="52" y="254.0" font-size="12" fill="#555" text-anchor="end">0</text>
+<line x1="60" y1="195.0" x2="580" y2="195.0" stroke="#e3e3e3"/>
+<text x="52" y="199.0" font-size="12" fill="#555" text-anchor="end">20</text>
+<line x1="60" y1="140.0" x2="580" y2="140.0" stroke="#e3e3e3"/>
+<text x="52" y="144.0" font-size="12" fill="#555" text-anchor="end">40</text>
+<line x1="60" y1="85.0" x2="580" y2="85.0" stroke="#e3e3e3"/>
+<text x="52" y="89.0" font-size="12" fill="#555" text-anchor="end">60</text>
+<line x1="60" y1="30.0" x2="580" y2="30.0" stroke="#e3e3e3"/>
+<text x="52" y="34.0" font-size="12" fill="#555" text-anchor="end">80</text>
+<rect x="105.0" y="134.5" width="80" height="115.5" fill="#4a72b8"/>
+<text x="145.0" y="128.5" font-size="12" fill="#333" text-anchor="middle">42</text>
+<text x="145.0" y="268" font-size="13" fill="#333" text-anchor="middle">Variant A</text>
+<rect x="235.0" y="65.8" width="80" height="184.2" fill="#4a72b8"/>
+<text x="275.0" y="59.8" font-size="12" fill="#333" text-anchor="middle">67</text>
+<text x="275.0" y="268" font-size="13" fill="#333" text-anchor="middle">Variant B</text>
+<rect x="365.0" y="164.8" width="80" height="85.2" fill="#4a72b8"/>
+<text x="405.0" y="158.8" font-size="12" fill="#333" text-anchor="middle">31</text>
+<text x="405.0" y="268" font-size="13" fill="#333" text-anchor="middle">Variant C</text>
+<rect x="495.0" y="98.8" width="80" height="151.2" fill="#4a72b8"/>
+<text x="535.0" y="92.8" font-size="12" fill="#333" text-anchor="middle">55</text>
+<text x="535.0" y="268" font-size="13" fill="#333" text-anchor="middle">Variant D</text>
+<line x1="60" y1="250" x2="580" y2="250" stroke="#333"/>
+<text x="18" y="140.0" font-size="13" fill="#333" text-anchor="middle" transform="rotate(-90 18 140.0)">Metric (unit)</text>
+</svg>

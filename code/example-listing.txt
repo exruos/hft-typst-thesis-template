@@ -1,0 +1,16 @@
+// Placeholder listing. Put source excerpts in /code as .txt files and
+// include them with `lst(path, lang)[caption]` from content/helpers.typ.
+use std::collections::HashMap;
+
+fn word_count(text: &str) -> HashMap<&str, usize> {
+    let mut counts = HashMap::new();
+    for word in text.split_whitespace() {
+        *counts.entry(word).or_insert(0) += 1;
+    }
+    counts
+}
+
+fn main() {
+    let counts = word_count("the quick brown fox jumps over the lazy dog");
+    println!("{:?}", counts.get("the"));
+}
